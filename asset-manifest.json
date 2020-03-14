@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/corona-hackathon/static/css/main.d1b05096.chunk.css",
+    "main.js": "/corona-hackathon/static/js/main.aa69bdcd.chunk.js",
+    "main.js.map": "/corona-hackathon/static/js/main.aa69bdcd.chunk.js.map",
+    "runtime-main.js": "/corona-hackathon/static/js/runtime-main.977a54cf.js",
+    "runtime-main.js.map": "/corona-hackathon/static/js/runtime-main.977a54cf.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/corona-hackathon/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.13576090.chunk.js": "/corona-hackathon/static/js/2.13576090.chunk.js",
+    "static/js/2.13576090.chunk.js.map": "/corona-hackathon/static/js/2.13576090.chunk.js.map",
+    "index.html": "/corona-hackathon/index.html",
+    "precache-manifest.6d05a924307b6a2547f6d4157b7f8bef.js": "/corona-hackathon/precache-manifest.6d05a924307b6a2547f6d4157b7f8bef.js",
+    "service-worker.js": "/corona-hackathon/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/corona-hackathon/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d1b05096.chunk.css.map": "/corona-hackathon/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.13576090.chunk.js.LICENSE.txt": "/corona-hackathon/static/js/2.13576090.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.977a54cf.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.13576090.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.aa69bdcd.chunk.js"
+  ]
+}
