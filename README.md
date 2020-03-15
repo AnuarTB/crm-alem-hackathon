@@ -19,6 +19,12 @@
 
 Пассажир, используя приложение по считыванию qr-кода на мобильном устройстве, переходит на веб-сайт, где будет предоставлена онлайн анкета. Данные с сайта будут загружаться в базу данных.
 
+Также имеется панель мониторинга:
+![panel1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/panel1.png)
+![panel2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/panel2.png)
+
+С помощью данной панели, выбрав соответствующую область на территории Республики Казахстан, можно будет проводить мониторинг людей, заполнивших данные на веб-сайте.
+
 ![online_form1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form1.png)
 
 ![online_form2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form2.png)
