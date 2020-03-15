@@ -10,6 +10,7 @@
 
 ![online_form1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form1.png)
 
+![online_form2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form2.png)
 
 ## Процедура прохождения анкеты бланка
 [Скрин анкеты бланка]
