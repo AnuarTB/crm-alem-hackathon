@@ -19,17 +19,17 @@
 
 Пассажир, используя приложение по считыванию qr-кода на мобильном устройстве, переходит на веб-сайт, где будет предоставлена онлайн анкета. Данные с сайта будут загружаться в базу данных.
 
+Анкета на веб-сайте для заполнения нужной информации:
+
+![online_form1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form1.png)
+
+![online_form2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form2.png)
+
 Также имеется панель мониторинга:
 ![panel1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/panel1.png)
 ![panel2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/panel2.png)
 
 С помощью данной панели, выбрав соответствующую область на территории Республики Казахстан, можно будет проводить мониторинг людей, заполнивших данные на веб-сайте.
-
-А вот и анкета на веб-сайте для заполнения нужной информации:
-
-![online_form1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form1.png)
-
-![online_form2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form2.png)
 
 ## Процедура прохождения анкеты бланка
 Пассажир не имеющий мобильное устрйство или если его устройство не предоставляет возможности перейти через qr-код на веб-сайт, то ему предоставляется данный бланк для заполнения данных. 
