@@ -31,18 +31,16 @@
 
 ![online_form2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form2.png)
 
-В месте где нужно указать страны, которые посещал пассажир за последние  14 дней, предоставляется 4 столбца, где пасссажир указывает код страны. Все коды стран будут предоставлены в соответствующем формате:
-
-
-![list_of_countries](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/list_of_countries.png)
-![list_of_countries_2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/list_of_countries_2.png)
-
-
 ## Процедура прохождения анкеты бланка
 Пассажир не имеющий мобильное устрйство или если его устройство не предоставляет возможности перейти через qr-код на веб-сайт, то ему предоставляется данный бланк для заполнения данных. 
 
 ![bubbleform](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/blank.png)
 
 После заполнения всех данных, бланк направляется для сканирования и распознования. Вся предоставленная информация автоматически заполняется в базу данных.
+
+В месте где нужно указать страны, которые посещал пассажир за последние  14 дней, предоставляется 4 столбца, где пасссажир указывает код страны. Все коды стран будут предоставлены в соответствующем формате:
+
+![list_of_countries](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/list_of_countries.png)
+![list_of_countries_2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/list_of_countries_2.png)
 
 В единичных случаях анкета может быть просканирована сканером установленного на мобильное устройство (приложение *formscanner*) (**reference**), в иных случаях оптический маркерный сканер удобен для считывания большого количества анкет.
