@@ -7,8 +7,6 @@ import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 
-import { sendForm } from '../utils/mediator';
-
 const schema = yup.object({
   lastName: yup.string().required(),
   firstName: yup.string().required(),
