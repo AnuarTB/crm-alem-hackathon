@@ -11,7 +11,8 @@ import { Switch, Route } from 'react-router-dom';
 function App() {
   return (
     <Container fluid='md'>
-      <h1>App</h1>
+      <p className='h1 m-3'><strong>Redemax</strong></p>
+      <hr/>
       <Switch>
         <Route exact path='/'>
           <PassengerForm />
