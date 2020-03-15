@@ -22,17 +22,23 @@ const schema = yup.object({
   terms: yup.bool().required()
 });
 
-function dummy(obj){
-  console.log("hello world");
-  console.log(obj);
+function handleSubmit(obj) {
+  alert("Спасибо за заполнение анкеты!");
+  window.location.reload(false); 
 }
+
+let regions = [
+  { name: 'Актюбинская Область', id: 'aktobe' },
+  { name: 'Акмолинская Область', id: 'akmola' },
+  { name: 'Алматинская Область', id: 'almaty' }
+];
 
 function PassengerForm(props) {
   return (
     <Container fluid={true}>
       <Formik
         validationSchema={schema}
-        onSubmit={dummy}
+        onSubmit={handleSubmit}
         validator={() => ({})}
         initialValues={{
           lastName: '',
@@ -144,6 +150,20 @@ function PassengerForm(props) {
                 onChange={handleChange}
               />
             </Form.Group>
+            <Form.Group>
+              <Form.Label>
+                Область в которую вы собираетесь поехать
+              </Form.Label>
+              <Form.Control
+                as='select'
+              >
+                {regions.map(region => (
+                  <option value={region.id} key={region.id}>
+                    {region.name}
+                  </option>
+                ))}
+              </Form.Control>
+            </Form.Group>
             <Form.Group controlId='formStayingPlace'>
               <Form.Label>
                 Место жительства, либо предпологаемое место проживания
@@ -157,7 +177,7 @@ function PassengerForm(props) {
               />
             </Form.Group>
             <Form.Group controlId='formContactNumbers'>
-              <Form.Label>Контактные телефоны</Form.Label>
+              <Form.Label>Контактный телефон</Form.Label>
               <Form.Control
                 name='contactNumbers'
                 required
