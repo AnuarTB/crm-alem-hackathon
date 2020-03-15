@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cbb2ac1522c715faf61886807a33c324",
+    "revision": "33cc2dc85d12345b242825fc9e4c47fd",
     "url": "/crm-alem-hackathon/index.html"
   },
   {
-    "revision": "fb8e9e77e63cece56cbe",
+    "revision": "1eba3bbf1e4798eef51a",
     "url": "/crm-alem-hackathon/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "0bd00452e3dae408a51f",
+    "revision": "61aec38eba19bd5a75f4",
     "url": "/crm-alem-hackathon/static/css/main.65b68748.chunk.css"
   },
   {
-    "revision": "fb8e9e77e63cece56cbe",
-    "url": "/crm-alem-hackathon/static/js/2.1966ecde.chunk.js"
+    "revision": "1eba3bbf1e4798eef51a",
+    "url": "/crm-alem-hackathon/static/js/2.8b69becd.chunk.js"
   },
   {
     "revision": "5a733b4f72d20e4afb54e249ef308592",
-    "url": "/crm-alem-hackathon/static/js/2.1966ecde.chunk.js.LICENSE.txt"
+    "url": "/crm-alem-hackathon/static/js/2.8b69becd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0bd00452e3dae408a51f",
-    "url": "/crm-alem-hackathon/static/js/main.8bdf6627.chunk.js"
+    "revision": "61aec38eba19bd5a75f4",
+    "url": "/crm-alem-hackathon/static/js/main.52ffcbb2.chunk.js"
   },
   {
     "revision": "2df52b05a31abd697247",
