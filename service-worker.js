@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/crm-alem-hackathon/precache-manifest.b81c155ed434d70cfe05f7f0295c298b.js"
+  "/crm-alem-hackathon/precache-manifest.d4ba8e4b70c79f06b1cb63235620ea37.js"
 );
 
 self.addEventListener('message', (event) => {

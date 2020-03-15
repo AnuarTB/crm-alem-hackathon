@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/crm-alem-hackathon/static/css/main.65b68748.chunk.css",
-    "main.js": "/crm-alem-hackathon/static/js/main.2615ccc9.chunk.js",
-    "main.js.map": "/crm-alem-hackathon/static/js/main.2615ccc9.chunk.js.map",
+    "main.js": "/crm-alem-hackathon/static/js/main.8bdf6627.chunk.js",
+    "main.js.map": "/crm-alem-hackathon/static/js/main.8bdf6627.chunk.js.map",
     "runtime-main.js": "/crm-alem-hackathon/static/js/runtime-main.7581e402.js",
     "runtime-main.js.map": "/crm-alem-hackathon/static/js/runtime-main.7581e402.js.map",
     "static/css/2.47e06e2e.chunk.css": "/crm-alem-hackathon/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.a12971fb.chunk.js": "/crm-alem-hackathon/static/js/2.a12971fb.chunk.js",
-    "static/js/2.a12971fb.chunk.js.map": "/crm-alem-hackathon/static/js/2.a12971fb.chunk.js.map",
+    "static/js/2.1966ecde.chunk.js": "/crm-alem-hackathon/static/js/2.1966ecde.chunk.js",
+    "static/js/2.1966ecde.chunk.js.map": "/crm-alem-hackathon/static/js/2.1966ecde.chunk.js.map",
     "index.html": "/crm-alem-hackathon/index.html",
-    "precache-manifest.b81c155ed434d70cfe05f7f0295c298b.js": "/crm-alem-hackathon/precache-manifest.b81c155ed434d70cfe05f7f0295c298b.js",
+    "precache-manifest.d4ba8e4b70c79f06b1cb63235620ea37.js": "/crm-alem-hackathon/precache-manifest.d4ba8e4b70c79f06b1cb63235620ea37.js",
     "service-worker.js": "/crm-alem-hackathon/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/crm-alem-hackathon/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.65b68748.chunk.css.map": "/crm-alem-hackathon/static/css/main.65b68748.chunk.css.map",
-    "static/js/2.a12971fb.chunk.js.LICENSE.txt": "/crm-alem-hackathon/static/js/2.a12971fb.chunk.js.LICENSE.txt"
+    "static/js/2.1966ecde.chunk.js.LICENSE.txt": "/crm-alem-hackathon/static/js/2.1966ecde.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7581e402.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.a12971fb.chunk.js",
+    "static/js/2.1966ecde.chunk.js",
     "static/css/main.65b68748.chunk.css",
-    "static/js/main.2615ccc9.chunk.js"
+    "static/js/main.8bdf6627.chunk.js"
   ]
 }
