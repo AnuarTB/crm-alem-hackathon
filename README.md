@@ -8,7 +8,7 @@
 
 Пассажир, используя приложение по считыванию qr-кода на мобильнм устройстве, переходит на веб-сайт, где будет предоставлена онлайн анкета. Данные с сайта будут загружаться в базу данных.
 
-![online_form1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/photos/online_form1.png)
+![online_form1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form1.png)
 
 
 ## Процедура прохождения анкеты бланка
