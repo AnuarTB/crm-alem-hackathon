@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "62ba6dc92d84f9949c833e211dd7cedc",
+    "revision": "e942e9f1a6992e93b9a2af21f3cf81ca",
     "url": "/crm-alem-hackathon/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crm-alem-hackathon/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "6ee613727f04ef80aaeb",
+    "revision": "03f73c927c5ccc87f7a4",
     "url": "/crm-alem-hackathon/static/css/main.65b68748.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/crm-alem-hackathon/static/js/2.a12971fb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ee613727f04ef80aaeb",
-    "url": "/crm-alem-hackathon/static/js/main.0d367339.chunk.js"
+    "revision": "03f73c927c5ccc87f7a4",
+    "url": "/crm-alem-hackathon/static/js/main.763df561.chunk.js"
   },
   {
     "revision": "2df52b05a31abd697247",
