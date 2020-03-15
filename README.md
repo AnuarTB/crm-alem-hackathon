@@ -25,6 +25,8 @@
 
 С помощью данной панели, выбрав соответствующую область на территории Республики Казахстан, можно будет проводить мониторинг людей, заполнивших данные на веб-сайте.
 
+А вот и анкета на веб-сайте для заполнения нужной информации:
+
 ![online_form1](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form1.png)
 
 ![online_form2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/online_form2.png)
