@@ -54,5 +54,7 @@
 ## Contributors:
 
 Talipov Anuar
+
 Kuntubek Aldiyar
+
 Safin Serzhan
