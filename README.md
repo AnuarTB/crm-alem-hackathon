@@ -46,4 +46,6 @@
 ![list_of_countries](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/list_of_countries.png)
 ![list_of_countries_2](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/list_of_countries_2.png)
 
-В единичных случаях анкета может быть просканирована сканером установленного на мобильное устройство (приложение *formscanner*) (**reference**), в иных случаях оптический маркерный сканер удобен для считывания большого количества анкет.
+Анкета может быть просканирована любым сканером, далее отправлена на компьютер для дальнейшего считывания информации.
+Установочный файл *formscanner* можете скачать по этой ссылке: [formscanner_setup](https://github.com/AnuarTB/crm-alem-hackathon/blob/master/formscanner-1.1.3-setup.exe)
+В единичных случаях анкета может быть просканирована сканером и затем отправлена на компьютер. Через эту программу, можно будет считывать информацию с анкеты. (программа *formscanner*) (**reference**), в иных случаях оптический маркерный сканер удобен для считывания большого количества анкет.
